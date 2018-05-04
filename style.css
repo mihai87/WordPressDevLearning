@@ -20,3 +20,9 @@ font-family: Helvetica, Arial, sans-serif;
 pre, code{
 font-family: Courier, monospace;
 }
+
+/* Text meant only for screen readers */
+.screen-text{
+position: absolute;
+left: -5000em;
+}
